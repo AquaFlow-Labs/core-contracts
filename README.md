@@ -1,4 +1,4 @@
-# org/core-contracts
+# core-contracts
 
 > The heart of the protocol. `CoreProtocol` is the primary on-chain entry point for funding — it receives ERC-20 tokens and automatically routes them to three sub-projects using [Drips V2](https://drips.network) splits.
 
